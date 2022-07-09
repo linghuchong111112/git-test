@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix ....");
         System.out.println("push...");
         System.out.println("GitHub append...");
+        System.out.println("Gitee append...");
     }
 }
